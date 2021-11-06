@@ -547,6 +547,7 @@ h1 {
 .btn-conteiner {
   display: flex;
   justify-content: center;
+  margin-bottom: 10vw;
 }
 
 .btn--block-sm {

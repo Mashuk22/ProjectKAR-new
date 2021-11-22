@@ -46,17 +46,6 @@
   font-display: swap;
 }
 
-@font-face {
-  font-family: "camptonweb";
-  src: url("../fonts/2E2A1F_0_0.eot");
-  src: url("../fonts/2E2A1F_0_0.eot?#iefix") format("embedded-opentype"),
-    url("../fonts/2E2A1F_0_0.woff2") format("woff2"),
-    url("../fonts/2E2A1F_0_0.woff") format("woff"),
-    url("../fonts/2E2A1F_0_0.ttf") format("truetype");
-  font-weight: 700;
-  font-display: swap;
-}
-
 .fs-small {
   font-size: 0.75em;
   letter-spacing: 0.33em;

@@ -1,0 +1,16 @@
+{
+  "/api": {
+    "target": "http://localhost:8000/",
+    "pathRewrite": {
+      "^/api": ""
+    }
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
